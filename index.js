@@ -11,4 +11,5 @@ function scuberGreetingForFeet(distance) {
 
 function ternaryCheckCity() {
   return "Ok, sounds good."
+  return "No go."
 }
