@@ -19,4 +19,6 @@ function ternaryCheckCity(city) {
 
 function switchOnCharmFromTip(amount) {
   "Thank you so much."
+  "Thank you."
+  "Bye."
 }
